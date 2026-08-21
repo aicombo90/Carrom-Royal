@@ -1,0 +1,6 @@
+{
+  "name": "Carrom Royale",
+  "description": "Carrom Royale - Premium Multiplayer Carrom Board Game with realistic physics, AI bot matches, 2-player pass & play, trick shots, and custom boards & strikers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
